@@ -1,0 +1,15 @@
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\bin\Debug\net6.0\FirstDemo.exe
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\bin\Debug\net6.0\FirstDemo.deps.json
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\bin\Debug\net6.0\FirstDemo.runtimeconfig.json
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\bin\Debug\net6.0\FirstDemo.dll
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\bin\Debug\net6.0\FirstDemo.pdb
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\FirstDemo.csproj.AssemblyReference.cache
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\FirstDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\FirstDemo.AssemblyInfoInputs.cache
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\FirstDemo.AssemblyInfo.cs
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\FirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\FirstDemo.dll
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\refint\FirstDemo.dll
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\FirstDemo.pdb
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\FirstDemo.genruntimeconfig.cache
+C:\Users\tobia\Source\Repos\FirstDemo\FirstDemo\FirstDemo\obj\Debug\net6.0\ref\FirstDemo.dll
